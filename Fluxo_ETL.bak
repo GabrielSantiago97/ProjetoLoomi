@@ -1,0 +1,1014 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="102" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Vacina2023.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="F1" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F4" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F5" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Imunobiológico" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="BCG" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="BCG2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="BCG3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP (1° Reforço)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP (1° Reforço)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP (1° Reforço)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="dTpa Adulto" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="dTpa Adulto2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="dTpa Adulto3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Febre Amarela" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Febre Amarela2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Febre Amarela3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite A Infantil" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite A Infantil2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite A Infantil3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B (&lt; 30 Dias)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B (&lt; 30 Dias)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B (&lt; 30 Dias)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C (1° Reforço)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C (1° Reforço)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C (1° Reforço)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Penta (DTP/HepB/Hib)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Penta (DTP/HepB/Hib)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Penta (DTP/HepB/Hib)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10_2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10_3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10 (1° Reforço)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10 (1° Reforço)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10 (1° Reforço)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Injetável (VIP)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Injetável (VIP)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Injetável (VIP)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Oral Bivalente" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Oral Bivalente2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Oral Bivalente3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Rotavírus" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Rotavírus2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Rotavírus3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 1° Dose" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 1° Dose2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 1° Dose3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 2° Dose" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 2° Dose2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 2° Dose3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Varicela" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Varicela2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Varicela3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2023.xlsx|||`Sheet1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="162" y="6" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\gabri\AppData\Local\Temp\Alteryx\Engine_9376_56a435e685263c4897ccac0e49d30c9e_\Engine_9376_7a66d9424ae60b4cacad102c7d20883b~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Perfil</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="294" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="F1" />
+            <Field field="F2" />
+            <Field field="F3" />
+            <Field field="F4" />
+          </KeyFields>
+          <DataFields>
+            <Field field="F1" selected="False" />
+            <Field field="F2" selected="False" />
+            <Field field="F3" selected="False" />
+            <Field field="F4" selected="False" />
+            <Field field="F5" selected="False" />
+            <Field field="Imunobiológico" selected="True" />
+            <Field field="BCG" selected="True" />
+            <Field field="BCG2" selected="True" />
+            <Field field="BCG3" selected="True" />
+            <Field field="DTP" selected="True" />
+            <Field field="DTP2" selected="True" />
+            <Field field="DTP3" selected="True" />
+            <Field field="DTP (1° Reforço)" selected="True" />
+            <Field field="DTP (1° Reforço)2" selected="True" />
+            <Field field="DTP (1° Reforço)3" selected="True" />
+            <Field field="dTpa Adulto" selected="True" />
+            <Field field="dTpa Adulto2" selected="True" />
+            <Field field="dTpa Adulto3" selected="True" />
+            <Field field="Febre Amarela" selected="True" />
+            <Field field="Febre Amarela2" selected="True" />
+            <Field field="Febre Amarela3" selected="True" />
+            <Field field="Hepatite A Infantil" selected="True" />
+            <Field field="Hepatite A Infantil2" selected="True" />
+            <Field field="Hepatite A Infantil3" selected="True" />
+            <Field field="Hepatite B" selected="True" />
+            <Field field="Hepatite B2" selected="True" />
+            <Field field="Hepatite B3" selected="True" />
+            <Field field="Hepatite B (&lt; 30 Dias)" selected="True" />
+            <Field field="Hepatite B (&lt; 30 Dias)2" selected="True" />
+            <Field field="Hepatite B (&lt; 30 Dias)3" selected="True" />
+            <Field field="Meningo C" selected="True" />
+            <Field field="Meningo C2" selected="True" />
+            <Field field="Meningo C3" selected="True" />
+            <Field field="Meningo C (1° Reforço)" selected="True" />
+            <Field field="Meningo C (1° Reforço)2" selected="True" />
+            <Field field="Meningo C (1° Reforço)3" selected="True" />
+            <Field field="Penta (DTP/HepB/Hib)" selected="True" />
+            <Field field="Penta (DTP/HepB/Hib)2" selected="True" />
+            <Field field="Penta (DTP/HepB/Hib)3" selected="True" />
+            <Field field="Pneumo 10" selected="True" />
+            <Field field="Pneumo 10_2" selected="True" />
+            <Field field="Pneumo 10_3" selected="True" />
+            <Field field="Pneumo 10 (1° Reforço)" selected="True" />
+            <Field field="Pneumo 10 (1° Reforço)2" selected="True" />
+            <Field field="Pneumo 10 (1° Reforço)3" selected="True" />
+            <Field field="Polio Injetável (VIP)" selected="True" />
+            <Field field="Polio Injetável (VIP)2" selected="True" />
+            <Field field="Polio Injetável (VIP)3" selected="True" />
+            <Field field="Polio Oral Bivalente" selected="True" />
+            <Field field="Polio Oral Bivalente2" selected="True" />
+            <Field field="Polio Oral Bivalente3" selected="True" />
+            <Field field="Rotavírus" selected="True" />
+            <Field field="Rotavírus2" selected="True" />
+            <Field field="Rotavírus3" selected="True" />
+            <Field field="Tríplice Viral - 1° Dose" selected="True" />
+            <Field field="Tríplice Viral - 1° Dose2" selected="True" />
+            <Field field="Tríplice Viral - 1° Dose3" selected="True" />
+            <Field field="Tríplice Viral - 2° Dose" selected="True" />
+            <Field field="Tríplice Viral - 2° Dose2" selected="True" />
+            <Field field="Tríplice Viral - 2° Dose3" selected="True" />
+            <Field field="Varicela" selected="True" />
+            <Field field="Varicela2" selected="True" />
+            <Field field="Varicela3" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="198" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>F3</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 10:45:33</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Totais</Operand>
+              <StartDate>2024-06-21 10:45:33</StartDate>
+              <EndDate>2024-06-21 10:45:33</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[F3] != "Totais"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="486" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="if EndsWith([Name], &quot;2&quot;) then &quot;Numerador&quot; elseif  Endswith([Name], &quot;3&quot;) then &quot;Denominador&quot; else &quot;Cobertura Vacinal&quot; endif" field="tipo" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>tipo = if EndsWith([Name], "2") then "Numerador" elseif  Endswith([Name], "3") t...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="390" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name" selected="True" type="V_String" size="2147483647" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="618" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotNull</Operator>
+            <Field>F3</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 10:58:18</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2024-06-21 10:58:18</StartDate>
+              <EndDate>2024-06-21 10:58:18</EndDate>
+              <Operand>
+              </Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([F3])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="738" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>F4</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 10:58:54</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2024-06-21 10:58:54</StartDate>
+              <EndDate>2024-06-21 10:58:54</EndDate>
+              <Operand>Totais</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[F4] != "Totais"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1026" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\gabri\AppData\Local\Temp\Alteryx\Engine_9376_56a435e685263c4897ccac0e49d30c9e_\Engine_9376_0704d16cbe82f942b8c4dcb8d2b64cc4~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Perfil</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="834" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>F3</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 10:59:54</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2024-06-21 10:59:54</StartDate>
+              <EndDate>2024-06-21 10:59:54</EndDate>
+              <Operand>UF Residência</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[F3] != "UF Residência"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="930" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>Name</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 11:00:57</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2024-06-21 11:00:57</StartDate>
+              <EndDate>2024-06-21 11:00:57</EndDate>
+              <Operand>Imunobiológico</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Name] != "Imunobiológico"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1038" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\gabri\AppData\Local\Temp\Alteryx\Engine_9376_56a435e685263c4897ccac0e49d30c9e_\Engine_9376_d7095df6ccef8940b9c3cd47a14dc0d0~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Perfil</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="102" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Vacina2024.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="F1" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F4" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F5" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Imunobiológico" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="BCG" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="BCG2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="BCG3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP (1° Reforço)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP (1° Reforço)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="DTP (1° Reforço)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="dTpa Adulto" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="dTpa Adulto2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="dTpa Adulto3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Febre Amarela" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Febre Amarela2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Febre Amarela3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite A Infantil" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite A Infantil2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite A Infantil3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B (&lt; 30 Dias)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B (&lt; 30 Dias)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Hepatite B (&lt; 30 Dias)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C (1° Reforço)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C (1° Reforço)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Meningo C (1° Reforço)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Penta (DTP/HepB/Hib)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Penta (DTP/HepB/Hib)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Penta (DTP/HepB/Hib)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10_2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10_3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10 (1° Reforço)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10 (1° Reforço)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Pneumo 10 (1° Reforço)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Injetável (VIP)" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Injetável (VIP)2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Injetável (VIP)3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Oral Bivalente" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Oral Bivalente2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Polio Oral Bivalente3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Rotavírus" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Rotavírus2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Rotavírus3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 1° Dose" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 1° Dose2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 1° Dose3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 2° Dose" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 2° Dose2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tríplice Viral - 2° Dose3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Varicela" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Varicela2" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Varicela3" size="255" source="File: G:\Meu Drive\Projeto Loomi\Vacina2024.xlsx|||`Sheet1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="174" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\gabri\AppData\Local\Temp\Alteryx\Engine_9376_56a435e685263c4897ccac0e49d30c9e_\Engine_9376_f8b856581c1a694a89a3088df92239f3~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Perfil</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="294" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="F1" />
+            <Field field="F2" />
+            <Field field="F3" />
+            <Field field="F4" />
+          </KeyFields>
+          <DataFields>
+            <Field field="F1" selected="False" />
+            <Field field="F2" selected="False" />
+            <Field field="F3" selected="False" />
+            <Field field="F4" selected="False" />
+            <Field field="F5" selected="False" />
+            <Field field="Imunobiológico" selected="True" />
+            <Field field="BCG" selected="True" />
+            <Field field="BCG2" selected="True" />
+            <Field field="BCG3" selected="True" />
+            <Field field="DTP" selected="True" />
+            <Field field="DTP2" selected="True" />
+            <Field field="DTP3" selected="True" />
+            <Field field="DTP (1° Reforço)" selected="True" />
+            <Field field="DTP (1° Reforço)2" selected="True" />
+            <Field field="DTP (1° Reforço)3" selected="True" />
+            <Field field="dTpa Adulto" selected="True" />
+            <Field field="dTpa Adulto2" selected="True" />
+            <Field field="dTpa Adulto3" selected="True" />
+            <Field field="Febre Amarela" selected="True" />
+            <Field field="Febre Amarela2" selected="True" />
+            <Field field="Febre Amarela3" selected="True" />
+            <Field field="Hepatite A Infantil" selected="True" />
+            <Field field="Hepatite A Infantil2" selected="True" />
+            <Field field="Hepatite A Infantil3" selected="True" />
+            <Field field="Hepatite B" selected="True" />
+            <Field field="Hepatite B2" selected="True" />
+            <Field field="Hepatite B3" selected="True" />
+            <Field field="Hepatite B (&lt; 30 Dias)" selected="True" />
+            <Field field="Hepatite B (&lt; 30 Dias)2" selected="True" />
+            <Field field="Hepatite B (&lt; 30 Dias)3" selected="True" />
+            <Field field="Meningo C" selected="True" />
+            <Field field="Meningo C2" selected="True" />
+            <Field field="Meningo C3" selected="True" />
+            <Field field="Meningo C (1° Reforço)" selected="True" />
+            <Field field="Meningo C (1° Reforço)2" selected="True" />
+            <Field field="Meningo C (1° Reforço)3" selected="True" />
+            <Field field="Penta (DTP/HepB/Hib)" selected="True" />
+            <Field field="Penta (DTP/HepB/Hib)2" selected="True" />
+            <Field field="Penta (DTP/HepB/Hib)3" selected="True" />
+            <Field field="Pneumo 10" selected="True" />
+            <Field field="Pneumo 10_2" selected="True" />
+            <Field field="Pneumo 10_3" selected="True" />
+            <Field field="Pneumo 10 (1° Reforço)" selected="True" />
+            <Field field="Pneumo 10 (1° Reforço)2" selected="True" />
+            <Field field="Pneumo 10 (1° Reforço)3" selected="True" />
+            <Field field="Polio Injetável (VIP)" selected="True" />
+            <Field field="Polio Injetável (VIP)2" selected="True" />
+            <Field field="Polio Injetável (VIP)3" selected="True" />
+            <Field field="Polio Oral Bivalente" selected="True" />
+            <Field field="Polio Oral Bivalente2" selected="True" />
+            <Field field="Polio Oral Bivalente3" selected="True" />
+            <Field field="Rotavírus" selected="True" />
+            <Field field="Rotavírus2" selected="True" />
+            <Field field="Rotavírus3" selected="True" />
+            <Field field="Tríplice Viral - 1° Dose" selected="True" />
+            <Field field="Tríplice Viral - 1° Dose2" selected="True" />
+            <Field field="Tríplice Viral - 1° Dose3" selected="True" />
+            <Field field="Tríplice Viral - 2° Dose" selected="True" />
+            <Field field="Tríplice Viral - 2° Dose2" selected="True" />
+            <Field field="Tríplice Viral - 2° Dose3" selected="True" />
+            <Field field="Varicela" selected="True" />
+            <Field field="Varicela2" selected="True" />
+            <Field field="Varicela3" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="198" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>F3</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 10:45:33</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Totais</Operand>
+              <StartDate>2024-06-21 10:45:33</StartDate>
+              <EndDate>2024-06-21 10:45:33</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[F3] != "Totais"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="486" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="if EndsWith([Name], &quot;2&quot;) then &quot;Numerador&quot; elseif  Endswith([Name], &quot;3&quot;) then &quot;Denominador&quot; else &quot;Cobertura Vacinal&quot; endif" field="tipo" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>tipo = if EndsWith([Name], "2") then "Numerador" elseif  Endswith([Name], "3") t...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="390" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name" selected="True" type="V_String" size="2147483647" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="630" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotNull</Operator>
+            <Field>F3</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 10:58:18</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2024-06-21 10:58:18</StartDate>
+              <EndDate>2024-06-21 10:58:18</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([F3])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="750" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>F4</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 10:58:54</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Totais</Operand>
+              <StartDate>2024-06-21 10:58:54</StartDate>
+              <EndDate>2024-06-21 10:58:54</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[F4] != "Totais"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="846" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>F3</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 10:59:54</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>UF Residência</Operand>
+              <StartDate>2024-06-21 10:59:54</StartDate>
+              <EndDate>2024-06-21 10:59:54</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[F3] != "UF Residência"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="942" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>Name</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-06-21 11:00:57</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Imunobiológico</Operand>
+              <StartDate>2024-06-21 11:00:57</StartDate>
+              <EndDate>2024-06-21 11:00:57</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Name] != "Imunobiológico"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="522" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" SearchSubDirs="False" />
+          <FormatSpecificOptions UseDcm="true" Format="19" RecordLimit="" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="True" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="True" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="True" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="True" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="True" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="True" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="True" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="True" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="True" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="True" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Fluxo_ETL</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="4c571003-020b-4260-824f-630414f00181" />
+      <Telemetry>
+        <PreviousWorkflowId value="da2a2201-a6dd-4636-935e-00bddec0246d" />
+        <OriginWorkflowId value="da2a2201-a6dd-4636-935e-00bddec0246d" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
